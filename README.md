@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio of projects
+Here is my portfolio containing projects that I've created (in categories).
